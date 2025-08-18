@@ -1,2 +1,2 @@
-# Misora Katarsis
+# MisoWriting
 Personal writing blog by misora
